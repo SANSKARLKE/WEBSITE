@@ -1,0 +1,47 @@
+.top_container{
+    background-color: black;
+    position: relative;
+    padding-top: 100px;
+} 
+
+.middle_container{
+    background-color: black;
+} 
+
+.bottom_container{
+    background-color: black;
+} 
+
+body{
+    background-color: black;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family: foldit;
+    font-size: 50px;
+}
+
+h1{
+    margin-top: 0px;
+    font-family: nabla;
+    font-size: 200%;
+    margin-top: 50px;
+}
+
+.pro{
+    font-size: 150%;
+}
+
+.bottom_cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px
+}
